@@ -1,78 +1,79 @@
 html {
-  max-width: 800px;
-  margin: 0 auto;
-  width: 90%;
-  position: relative;
+	max-width: 800px;
+	margin: 0 auto;
+	width: 90%;
+	position: relative;
 }
 
 body {
-  background-color: #FFFDF6;
-  color: #2F0102;
-  font-family: "Gowun Batang";
-  font-size: 28px;
-  line-height: 200%;
+	background-color: #FFFDF6;
+	color: #2F0102;
+	font-family: "Gowun Batang";
+	font-size: 28px;
+	line-height: 200%;
 }
 
 h1 {
-  text-align: center;
-  font-family: "Song Myung";
+	text-align: center;
+	font-family: "Song Myung";
 }
 
 h2 {
-  text-align: center;
-  font-family: "Cinzel Decorative";
+	text-align: center;
+	font-family: "Cinzel Decorative";
 }
 
 h3 {
-  text-align: center;
-  font-family: "Song Myung";
+	text-align: center;
+	font-family: "Song Myung";
 }
 
 hr {
-  border : solid 1px #2F0102;
+	border : solid 1px #2F0102;
 }
 
 a {
-  color: #8F3838;
-  font-weight: bold;
-  text-decoration: none;
+	color: #8F3838;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 small {
-  font-family: "Cormorant Garamond";
+	font-family: "Cormorant Garamond";
 }
 
 sup {
-  font-family: "Cormorant Garamond";
+	font-family: "Cormorant Garamond";
 }
 
 img {
-  text-align: center;
-  width: 50%;
-  margin-top: 20px;
-  margin-bottom: 2px;
+	text-align: center;
+	width: 50%;
+	margin-top: 20px;
+	margin-bottom: 2px;
 }
 
 .note {
-  font-size: 20px;
-  line-height: 180%;
+	font-size: 20px;
+	line-height: 180%;
 }
 
 div.note p {
-  margin-block-end: -10px;
+	margin-block-end: -10px;
 }
 
 .footer {
-  font-size: 14px;
-  line-height: 100%;
-  text-align: right;
+	font-size: 14px;
+	line-height: 100%;
+	text-align: right;
 }
 
 header { position: sticky; text-align: right; margin-right: -50px; bottom: 15px; font-size: 20pt; }
 @media (max-width: 770px) {
-  header { position: sticky; text-align: right; margin-right: 0px; bottom: 15px; font-size: 20pt; }
+	header { position: sticky; text-align: right; margin-right: 0px; bottom: 15px; font-size: 20pt; }
 }
 
 .visitor-counter {
-  font-size: 6px;
+	font-size: 6px;
+	text-align: center;
 }
